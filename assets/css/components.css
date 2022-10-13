@@ -17,3 +17,29 @@ footer {
 footer img {
   margin-left: 300px;
 }
+
+.image {
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  border: 10px solid rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+}
+
+.image-2 {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  border: 10px solid rgba(255, 120, 230, 1);
+  border-radius: 10px;
+}
+
+.content {
+  float: left;
+  width: 50%;
+}
+
+.wrapper {
+  border: 5px solid rgb(69, 212, 29);
+  background-color: #f66;
+}
