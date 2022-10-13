@@ -8,3 +8,12 @@ nav.navigation {
 header {
   margin-bottom: 100px;
 }
+
+footer {
+  background-color: #000;
+  height: 300px;
+}
+
+footer img {
+  margin-left: 300px;
+}

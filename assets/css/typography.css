@@ -18,3 +18,19 @@ h1 {
   margin-bottom: 50px;
 }
 
+footer {
+  padding-top: 75px;
+}
+
+footer a {
+  color: #fff;
+  display: block;
+  text-transform: capitalize;
+}
+
+footer p {
+  color: #fff;
+  text-align: center;
+  font-size: small;
+}
+
